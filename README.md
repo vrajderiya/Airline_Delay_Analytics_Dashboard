@@ -83,7 +83,6 @@ Ensure the following are installed:
 <img width="1000" height="800" alt="Dashboard 2" src="https://github.com/user-attachments/assets/6654f0fe-2cb6-47d7-91bc-1afac84af219" />
 <img width="958" height="947" alt="Top 15 Airports by Total Delayed Time (All causes)-2" src="https://github.com/user-attachments/assets/e16a5d3f-1027-4928-9fac-874d9e29ba30" />
 <img width="1845" height="947" alt="Average Delay Rate by Airport" src="https://github.com/user-attachments/assets/7c3b863f-919a-454f-bc7c-74b55d7c9203" />
-<img width="958" height="947" alt="Top 15 Airports by Total Delayed Time (All causes)-2" src="https://github.com/user-attachments/assets/f4b9b2b8-79f6-497e-88c1-550843cad497" />
 <img width="1873" height="265" alt="Top 10 Airports by Cancellation Rate" src="https://github.com/user-attachments/assets/a3f92205-64a5-4fa6-bb10-db9eed669183" />
 <img width="1845" height="947" alt="Geographic Hotspots of Flight Delays by Airport-2" src="https://github.com/user-attachments/assets/6e9556f9-91d3-4b4c-a7e7-f05206e1aabc" />
 <img width="952" height="511" alt="Delay Rate by Airport and Carrier-2" src="https://github.com/user-attachments/assets/cab89eef-9902-4fa8-b23d-6ad295fb7dce" />
